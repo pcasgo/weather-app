@@ -6,6 +6,8 @@ const Location = ({ city }) => {
     )
 };
 
-
+Location.propTypes = {
+    city: PropTypes.string.isRequired,
+}
 
 export default Location; 

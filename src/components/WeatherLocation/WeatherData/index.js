@@ -7,7 +7,7 @@ import {
     SUN,
     RAIN,
     WINDY,
-} from '../constants/weathers';
+} from './../../../constants/weathers';
 
 const WeatherData = () => (
     <div>
